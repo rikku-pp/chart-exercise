@@ -1,0 +1,41 @@
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 0.5em;
+}
+
+h1 {
+  font-style: italic;
+  color: #e82a87;
+  margin-bottom: 0em;
+  margin-top: 0em;
+}
+
+canvas {
+  border: 1px solid purple;
+}
+
+h2 {
+  margin: 0.2em
+}
+.my-flex-row {
+  display:flex; 
+  flex-direction:row; 
+  flex-wrap:wrap; 
+  justify-content: space-around;
+  justify-content: space-evenly;
+}
+
+.chart-container {
+  position: relative;
+  width: 33vw; 
+  height:33vw; 
+  min-width: 200px;
+  min-height:200px;
+  margin:auto;
+}
+.chart-label {
+  text-align: center; 
+}
+
+
+

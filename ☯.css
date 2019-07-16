@@ -1,0 +1,39 @@
+
+.☯--bright {
+  background-color: rgb(249, 221, 137);
+}
+.☯--dark {
+  background-color: rgb(246, 168, 117);
+}
+
+/* Exercise 3 - the 'tail' parts of chart */
+
+  /* define common styles (1 class, 5 rules) */
+  /* TODO: make each tail full height (or width) of parent container */
+
+  /* define individual tails (2 classes, 3 rules each) */
+  /* TODO: crop out half-circle from div using clip-path and absolute positioning*/
+  /* https://alligator.io/css/clipping-with-clip-path/#ellipse */
+
+  /* TODO: crop out half-circle from div using clip-path and absolute positioning */
+
+
+
+
+/* Exercise 4 - the 'head' parts of chart*/
+
+  /* define common styles (1 class, 1 rule) */
+  /* TODO: make each round */
+
+
+  /* define container styles (1 class, 8 rules) */
+  /* TODO: stack element to parent element, having same size */
+  /* TODO: align the contained heads along a center line using flexbox */
+  /* @see: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+  
+
+
+
+/* Exercise 6 - temporary style to indicate downloading of data */
+
+  /* TODO: define placeholder pseudo-element to use while fetching */
